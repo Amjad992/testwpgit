@@ -1,5 +1,5 @@
 ---
 deployment:
       tasks:
-        - export DEPOLYPATH=/home/amjalbwd/testwpgit
+        - export DEPOLYPATH=/home/amjalbwd/testwpgit8
         - /bin/cp -r * $DEPLOYPATH
